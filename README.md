@@ -32,16 +32,15 @@ python main.py
 
 ## Ejemplo de uso
 
-— Calculadora Open Source —
-	1.	Sumar 2 números
-	2.	Restar 2 números
-	3.	Multiplicar 2 números
-	4.	Dividir 2 números
-	5.	Suma avanzada (N números)
-	6.	Salir
-
-
 ```
+— Calculadora Open Source —
+1. Sumar 2 números
+2. Restar 2 números
+3. Multiplicar 2 números
+4. Dividir 2 números
+5. Suma avanzada (N números)
+6. Salir
+
 Selecciona una opción: 1
 
 Ingrese la operación que desea realizar:
